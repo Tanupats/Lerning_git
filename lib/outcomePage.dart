@@ -110,7 +110,7 @@ class _StateForm extends State<OutcomeForm> {
               child: TextFormField(
                 decoration: const InputDecoration(
                   icon: Icon(Icons.list),
-                  hintText: 'รายจ่าย',
+                  hintText: 'รายจ่ายของเรา',
                 ),
                 onSaved: (String? value) {
                  
